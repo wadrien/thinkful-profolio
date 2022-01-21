@@ -1,1 +1,20 @@
+a: link { color: black; }
+a: visited { color: white; }
+a: hover {color: yellow; }
+a: active { color: black; }
 
+div {
+  font-family: didot, american typewriter, bookman;
+}
+
+.top {
+  background: darkgreen;
+}
+
+.middle {
+  background: lightgreen;
+}
+
+.top, .middle {
+  text-align: center;
+}
