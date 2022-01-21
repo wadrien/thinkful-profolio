@@ -22,6 +22,7 @@ main article section ul {
 
 .intro-pic, h3, ol, ul {
   text-align: center;
+  font-size: 40px;
 }
 
 .top {
