@@ -3,8 +3,8 @@ header nav a {
 }
 
 img {
-  margin: 25px;
-  padding: 100px;
+  margin: 50px;
+  padding-top: 100px;
 }
 
 div {
@@ -13,6 +13,10 @@ div {
 
 h3 {
   font-size: 80px
+}
+
+.intro-pic {
+  text-align: center;
 }
 
 .top {
