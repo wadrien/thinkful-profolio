@@ -1,5 +1,6 @@
 header nav a {
   color: black;
+  font-size: 40px;
 }
 
 .center-img {
@@ -16,10 +17,6 @@ h1 {
 
 body {
   font-family: Didot, American Typewriter, URW Bookman L;
-}
-
-p > img {
-  font-size: 30px;
 }
 
 ul, ol {
