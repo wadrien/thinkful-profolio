@@ -1,6 +1,7 @@
 header nav a {
   color: black;
-  font-size: 40px;
+  font-size: 30px;
+  word-spacing: 20px;
 }
 
 .center-img {
