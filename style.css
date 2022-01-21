@@ -15,7 +15,7 @@ body {
   font-family: Didot, American Typewriter, URW Bookman L;
 }
 
-.intro-pic {
+.intro-pic, h3 {
   text-align: center;
 }
 
