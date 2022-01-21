@@ -2,22 +2,24 @@ header nav a {
   color: black;
 }
 
+img {
+  margin: 25px;
+  padding: 25px;
+}
+
 div {
   font-family: didot, american typewriter, bookman;
 }
 
 h3 {
-  font-size: 50px
+  font-size: 80px
 }
 
 .top {
-  background: darkgreen;
+  background-color: darkgreen;
+  padding: 50px;
 }
 
 .middle {
-  background: lightgreen;
-}
-
-.top, .middle {
-  text-align: center;
+  background-color: lightgreen;
 }
