@@ -7,6 +7,10 @@ img {
   padding-top: 50px;
 }
 
+h1 {
+  color: white;
+}
+
 div {
   font-family: didot, american typewriter, bookman;
 }
@@ -27,4 +31,5 @@ div {
 
 .last {
   font-size: 55px;
+  padding-bottom: 50px;
 }
