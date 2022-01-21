@@ -3,6 +3,7 @@ header nav a {
 }
 
 .center-img {
+  padding-top: 60px;
   display: block;
   margin-left: auto;
   margin-right: auto;
