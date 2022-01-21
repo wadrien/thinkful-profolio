@@ -15,7 +15,12 @@ body {
   font-family: Didot, American Typewriter, URW Bookman L;
 }
 
-.intro-pic, h3 {
+main article section ul {
+  text-align: center;
+}
+
+
+.intro-pic, h3, ol, ul {
   text-align: center;
 }
 
@@ -29,7 +34,4 @@ body {
   background-color: lightgreen;
 }
 
-.last {
-  font-size: 55px;
-  padding-bottom: 50px;
-}
+
