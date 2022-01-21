@@ -7,6 +7,10 @@ div {
   font-family: didot, american typewriter, bookman;
 }
 
+h3 {
+  font-size: 50px
+}
+
 .top {
   background: darkgreen;
 }
