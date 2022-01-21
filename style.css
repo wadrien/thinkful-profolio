@@ -11,10 +11,6 @@ div {
   font-family: didot, american typewriter, bookman;
 }
 
-h3 {
-  font-size: 50px
-}
-
 .intro-pic {
   text-align: center;
 }
@@ -27,4 +23,8 @@ h3 {
 
 .middle {
   background-color: lightgreen;
+}
+
+.last {
+  font-size: 55px;
 }
