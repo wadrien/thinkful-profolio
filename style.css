@@ -15,12 +15,15 @@ body {
   font-family: Didot, American Typewriter, URW Bookman L;
 }
 
-main article section ul {
+.ul-center li {
   text-align: center;
 }
 
+.ol-center li {
+  text-align: center;
+}
 
-.intro-pic, h3, ol, ul {
+.intro-pic, h3{
   text-align: center;
   font-size: 40px;
 }
