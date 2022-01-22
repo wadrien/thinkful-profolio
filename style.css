@@ -13,13 +13,15 @@ header nav a {
 h1,h2 {
   color: white;
 }
+h3 {
+  text-align: center;
+}
 
 body {
   font-family: Didot, American Typewriter, URW Bookman L;
 }
 
 ul, ol {
-  color: white;
   display: table;
   margin: auto;
   text-align: left;
@@ -42,6 +44,5 @@ ul, ol {
 .footer {
   text-align: center;
   background-color: black;
-  color: white;
   font-size: 30px;
 }
