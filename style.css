@@ -59,8 +59,11 @@ ul, ol {
   text-align: center;
 }
 
+body {
+  margin: 0px;
+}
+
 .footer {
-  margin: 0;
   background-color: lightgreen;
   text-align: center;
   font-size: 25px;
