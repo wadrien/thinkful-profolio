@@ -1,3 +1,15 @@
+a:link {
+  color: violet;
+}
+a:visited {
+  color: darkbrown;
+}
+a:hover {
+  color: yellow;
+}
+a:active {
+  dolor: white;
+}
 header nav a {
   font-size: 30px;
   color:white;
