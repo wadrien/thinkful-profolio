@@ -1,5 +1,5 @@
 header nav a {
-  color: black;
+  color: white;
   font-size: 30px;
 }
 
@@ -19,6 +19,7 @@ body {
 }
 
 ul, ol {
+  color: white;
   display: table;
   margin: auto;
   text-align: left;
@@ -26,6 +27,7 @@ ul, ol {
 
 .top {
   background-color: darkgreen;
+  color: white;
   text-align: center;
   padding: 50px;
 }
