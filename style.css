@@ -60,6 +60,7 @@ ul, ol {
 }
 
 .footer {
+  margin: 0;
   background-color: lightgreen;
   text-align: center;
   font-size: 25px;
